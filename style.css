@@ -1,0 +1,29 @@
+h1#titol{
+    text-align: center;
+    color: rgb(91, 16, 16);
+}
+body.fondo{
+    background-color: bisque;
+}
+span.cafe{
+   display: block; 
+    position: relative;
+    right: -850px;
+}
+span.contacto{
+    display: block;
+    position: relative;
+    right: -1700px;
+}
+p.cartah{
+    color:brown;
+}
+p.cafeh{
+    color: brown;
+}
+h1#titol1{
+    text-align: center;
+}
+ul.circle{
+    list-style-type: circle;
+}
